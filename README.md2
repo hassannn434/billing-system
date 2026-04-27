@@ -1,0 +1,27 @@
+#  Customer Billing System
+
+This is a simple billing system developed using C programming language.
+
+##  Features
+- Displays available items with prices
+- Searches items using linear search
+- Accepts quantity input
+- Calculates total bill
+- Console-based interaction
+
+## Technologies Used
+- C Programming
+- Arrays
+- Strings
+- Linear Search Algorithm
+
+##  How to Run
+1. Compile the program:
+   gcc billing.c -o billing
+2. Run the program:
+   ./billing
+
+##  Learning Outcome
+- Understanding of C programming fundamentals
+- Implementation of linear search
+- Working with arrays and user input
